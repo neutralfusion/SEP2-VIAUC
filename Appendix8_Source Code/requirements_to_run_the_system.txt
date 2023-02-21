@@ -1,0 +1,8 @@
+libraries required to run the system:
+javafx 16
+myobserver 1.4
+postgres
+gson
+
+
+MyConnection - write connect details to postgres (url, username and password)
